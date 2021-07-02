@@ -7,7 +7,7 @@ namespace BalancedBracketsNS
         static void Main(string[] args)
         {
 
-            Console.WriteLine(BalancedBrackets.HasBalancedBrackets("[LaunchCode]"));
+            //Console.WriteLine(BalancedBrackets.HasBalancedBrackets("[LaunchCode]"));
             
 
 
